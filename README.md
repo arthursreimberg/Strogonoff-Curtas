@@ -1,7 +1,7 @@
 # Strogonoff
 
 ## Descrição do App
-Aplicativo críticas e análises descontráidas sobre curta metragens.
+Aplicativo de críticas e análises descontráidas sobre curta metragens.
 
 ## Integrantes: <br>
 Arthur Reimberg dos Santos;<br>
